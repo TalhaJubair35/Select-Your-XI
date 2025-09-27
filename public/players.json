@@ -1,5 +1,6 @@
 [
   {
+    "player-id": 1,
     "player-image": "https://i.ibb.co.com/84mK8Gfx/tndulkar.webp",
     "player-name": "Shakib Al Hasan",
     "player-country": "Bangladesh",
@@ -10,6 +11,7 @@
     "price": "120000 USD"
   },
   {
+    "player-id": 2,
     "player-image": "https://i.ibb.co.com/84mK8Gfx/tndulkar.webp",
     "player-name": "Mushfiqur Rahim",
     "player-country": "Bangladesh",
@@ -20,6 +22,7 @@
     "price": "100000 USD"
   },
   {
+    "player-id":3,
     "player-image": "https://i.ibb.co.com/84mK8Gfx/tndulkar.webp",
     "player-name": "Tamim Iqbal",
     "player-country": "Bangladesh",
@@ -30,6 +33,7 @@
     "price": "110000 USD"
   },
   {
+    "player-id": 4,
     "player-image": "https://i.ibb.co.com/84mK8Gfx/tndulkar.webp",
     "player-name": "Mustafizur Rahman",
     "player-country": "Bangladesh",
@@ -40,6 +44,7 @@
     "price": "95000 USD"
   },
   {
+    "player-id": 5,
     "player-image": "https://i.ibb.co.com/84mK8Gfx/tndulkar.webp",
     "player-name": "Andre Russell",
     "player-country": "West Indies",
@@ -50,6 +55,7 @@
     "price": "150000 USD"
   },
   {
+    "player-id": 6,
     "player-image": "https://i.ibb.co.com/84mK8Gfx/tndulkar.webp",
     "player-name": "David Miller",
     "player-country": "South Africa",
@@ -60,6 +66,7 @@
     "price": "120000 USD"
   },
   {
+    "player-id": 7,
     "player-image": "https://i.ibb.co.com/84mK8Gfx/tndulkar.webp",
     "player-name": "Chris Gayle",
     "player-country": "West Indies",
@@ -70,6 +77,7 @@
     "price": "140000 USD"
   },
   {
+    "player-id": 8,
     "player-image": "https://i.ibb.co.com/84mK8Gfx/tndulkar.webp",
     "player-name": "Mahmudullah Riyad",
     "player-country": "Bangladesh",
@@ -80,6 +88,7 @@
     "price": "85000 USD"
   },
   {
+    "player-id": 9,
     "player-image": "https://i.ibb.co.com/84mK8Gfx/tndulkar.webp",
     "player-name": "Rashid Khan",
     "player-country": "Afghanistan",
@@ -90,6 +99,7 @@
     "price": "145000 USD"
   },
   {
+    "player-id": 10,
     "player-image": "https://i.ibb.co.com/84mK8Gfx/tndulkar.webp",
     "player-name": "Litton Das",
     "player-country": "Bangladesh",
@@ -100,6 +110,7 @@
     "price": "90000 USD"
   },
   {
+    "player-id": 11,
     "player-image": "https://i.ibb.co.com/84mK8Gfx/tndulkar.webp",
     "player-name": "Sunil Narine",
     "player-country": "West Indies",
@@ -110,6 +121,7 @@
     "price": "130000 USD"
   },
   {
+    "player-id": 12,
     "player-image": "https://i.ibb.co.com/84mK8Gfx/tndulkar.webp",
     "player-name": "Taskin Ahmed",
     "player-country": "Bangladesh",
