@@ -1,18 +1,23 @@
 import React, { useState } from "react";
 
-const PlayerCard = ({ player, setAvailableBalance, availableBalance, purchasedPlayers ,setPurchasedPlayers}) => {
+const PlayerCard = ({
+  player,
+  setAvailableBalance,
+  availableBalance,
+  purchasedPlayers,
+  setPurchasedPlayers,
+}) => {
   const [isSelected, setIsSelected] = useState(false);
   const handleSelected = (playerData) => {
-    const playerPrice=parseInt(playerData["price"].split("USD").join("").split(",").join(""))
-    if (availableBalance<playerPrice) {
-        return alert("no coins available")
+    const playerPrice = parseInt(
+      playerData["price"].split("USD").join("").split(",").join("")
+    );
+    if (availableBalance < playerPrice) {
+      return alert("no coins available");
     }
     setIsSelected(true);
-    setAvailableBalance(
-      availableBalance -playerPrice
-        
-    );
-    setPurchasedPlayers([...purchasedPlayers,playerData])
+    setAvailableBalance(availableBalance - playerPrice);
+    setPurchasedPlayers([...purchasedPlayers, playerData]);
   };
   return (
     <div key={player["player-id"]} className="card bg-base-100  shadow-sm">
